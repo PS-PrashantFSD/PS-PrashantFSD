@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web3, Cloud Computing(AWS), Python**
 
-- 👨‍💻 All of my projects are available at [ps-prashantffsd](ps-prashantffsd)
+- 👨‍💻 All of my projects are available at [ps-prashantfsd](ps-prashantfsd)
 
 - 🌐 Portfolio [psprashant.netlify.app](psprashant.netlify.app)
 
