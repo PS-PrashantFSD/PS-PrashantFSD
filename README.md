@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [ps-prashantfsd](ps-prashantfsd)
 
-- 🌐 Portfolio [psprashant.netlify.app](psprashant.netlify.app)
+- 🌐 Portfolio [https://psprashant.netlify.app/](https://psprashant.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, ReactJs, and More about Web development**
 
